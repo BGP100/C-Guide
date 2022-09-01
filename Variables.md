@@ -1,6 +1,6 @@
-<a href="/Introduction.md">&lt; Previous</a>
+<a href="/Comments.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Syntax.md">Next &gt;</a>
+<a href="/Data-Types.md">Next &gt;</a>
 <hr>
 Variables are containers for storing data values.
 <br>
