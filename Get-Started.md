@@ -1,6 +1,6 @@
-<a href="/Home.md">&lt; Previous</a>
+<a href="/Introduction.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Get-Started.md">Next &gt;</a>
+<a href="/Syntax.md">Next &gt;</a>
 <hr>
 To start using C, you need two things:
 <ul>
