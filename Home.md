@@ -1,6 +1,6 @@
 <a href="https://bledy-guides.repl.co/#c">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Intro.md">Next &gt;</a>
+<a href="/Introduction.md">Next &gt;</a>
 <hr>
 C is a general-purpose programming language, developed in 1972, and still quite popular.
 <br>
