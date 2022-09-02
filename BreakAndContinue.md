@@ -1,6 +1,6 @@
-<a href="/Loops/While.md">&lt; Previous</a>
+<a href="/Loops/For.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/BreakAndContinue.md">Next &gt;</a>
+<a href="/Arrays.md">Next &gt;</a>
 <hr>
 <h1>Break</h1>
 You have already seen the break statement used in an earlier chapter of this tutorial. It was used to "jump out" of a switch statement.
