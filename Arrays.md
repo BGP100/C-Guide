@@ -1,6 +1,6 @@
-<a href="/Loops/For.md">&lt; Previous</a>
+<a href="/BreakAndContinue.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Arrays.md">Next &gt;</a>
+<a href="/Strings.md">Next &gt;</a>
 <hr>
 Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
 <br>
