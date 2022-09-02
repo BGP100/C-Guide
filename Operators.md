@@ -1,6 +1,6 @@
-<a href="/Data-Types.md">&lt; Previous</a>
+<a href="/Constants.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Operators.md">Next &gt;</a>
+<a href="/If-Else/Main.md">Next &gt;</a>
 <hr>
 Operators are used to perform operations on variables and values.
 <br>
