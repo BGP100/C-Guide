@@ -1,6 +1,6 @@
-<a href="/If-Else/Short-Hand.md">&lt; Previous</a>
+<a href="/Switch.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Loops/While.md">Next &gt;</a>
+<a href="/Loops/For.md">Next &gt;</a>
 <hr>
 Loops can execute a block of code as long as a specified condition is reached.
 <br>
@@ -20,7 +20,7 @@ while (i &lt; 5) {
   i++;
 }
 </pre>
-<b>Note:</b> Do not forget to increase the variable used in the condition (i++), otherwise the loop will never end!
+<b>Note:</b> Do not forget to increase the variable used in the condition (<code>i++</code>), otherwise the loop will never end!
 <h1>The Do/While Loop</h1>
 The do/while loop is a variant of the while loop. This loop will execute the code block once, before checking if the condition is true, then it will repeat the loop as long as the condition is true.
 <pre>
@@ -38,4 +38,4 @@ do {
 }
 while (i &lt; 5);
 </pre>
-<b>Note:</b> Do not forget to increase the variable used in the condition (i++), otherwise the loop will never end!
+<b>Note:</b> Do not forget to increase the variable used in the condition (<code>i++</code>), otherwise the loop will never end!
