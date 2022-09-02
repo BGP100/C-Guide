@@ -1,6 +1,6 @@
-<a href="/Switch.md">&lt; Previous</a>
+<a href="/Loops/While.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/Loops/For.md">Next &gt;</a>
+<a href="/BreakAndContinue.md">Next &gt;</a>
 <hr>
 When you know exactly how many times you want to loop through a block of code, use the for loop instead of a while loop:
 <pre>
