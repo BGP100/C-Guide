@@ -2,7 +2,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="/Functions/Recursion.md">Next &gt;</a>
 <hr>
-
 You just learned from the previous chapters that you can create and call a function it the following way:
 <pre>
 // Create a function
