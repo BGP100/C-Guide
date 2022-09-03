@@ -7,7 +7,7 @@ Remember that strings in C are actually an array of characters, and unfortunatel
 struct myStructure {
   int myNum;
   char myLetter;
-  char myString[30];  // String
+  char myString[30]; // String
 };<br>
 int main() {
   struct myStructure s1;<br>
