@@ -40,4 +40,5 @@ If you find any errors, please send a screenshot to <a href="mailto:business.ble
   <li>Copy Structures</li>
   <li>Modify Structures</li>
   <li>Structure Example</li>
+  <li>Quiz</li>
 </ol>
