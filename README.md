@@ -9,8 +9,10 @@ If you find any errors, please send a screenshot to <a href="mailto:business.ble
   <li>Get Started</li>
   <li>Syntax</li>
   <li>Output</li>
-  <li>Print Text Output</li>
-  <li>New Lines Output</li>
+  <ul>
+    <li>Print Text Output</li>
+    <li>New Lines Output</li>
+  </ul>
   <li>Comments</li>
   <li>Variables</li>
   <li>Data Types</li>
@@ -28,17 +30,21 @@ If you find any errors, please send a screenshot to <a href="mailto:business.ble
   <li>Memory Adress</li>
   <li>Pointers</li>
   <li>Functions</li>
-  <li>Functions Parameters</li>
-  <li>Functions Declaration</li>
-  <li>Recursion Functions</li>
-  <li>Math Functions</li>
+  <ul>
+    <li>Functions Parameters</li>
+    <li>Functions Declaration</li>
+    <li>Recursion Functions</li>
+    <li>Math Functions</li>
+  </ul>
   <li>Structures</li>
-  <li>Create Structure</li>
-  <li>Access Structure</li>
-  <li>Strings in Structures</li>
-  <li>Simpler Syntax</li>
-  <li>Copy Structures</li>
-  <li>Modify Structures</li>
-  <li>Structure Example</li>
+  <ul>
+    <li>Create Structure</li>
+    <li>Access Structure</li>
+    <li>Strings in Structures</li>
+    <li>Simpler Syntax</li>
+    <li>Copy Structures</li>
+    <li>Modify Structures</li>
+    <li>Structure Example</li>
+  </ul>
   <li>Quiz</li>
 </ol>
